@@ -1,5 +1,5 @@
 # ORF7a_H47Y
-A supplemental table for the GISAID datasets used in the following studies.
+The supplemental tables for the GISAID datasets used in the following studies.
 
 Timilsina et al. 2024. SARS-CoV-2 ORF7a mutation found in BF.5 and BF.7 sublineages impacts its functions. *International Journal of Molecular Sciences*. 25: 2351. doi: 10.3390/ijms25042351\
 Timilsina et al. 2023. SARS-CoV-2 ORF7a mutation found in BF.5 and BF.7 sublineages impacts its functions. *bioRxiv*. doi: 10.1101/2023.09.06.556547
